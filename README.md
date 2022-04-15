@@ -3,7 +3,7 @@
 # script will fetch the details from instance-data.json, this file consists the metadata of the instance.
 
 How to use 
-# copy the file on running linux ec2 instance
+# copy the script (metadata.sh) on running linux ec2 instance
 
 # please execute chmod a+x metadata.sh before executing the script.
 
